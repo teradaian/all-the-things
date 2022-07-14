@@ -132,9 +132,9 @@ const App = () => {
 
   const [iansThings, setIansThings] = useState([
     {
-      name: "coffee",
-      image: "https://imgs.xkcd.com/comics/coffee.png",  
-      attributes: ["delicious", "tasty", "envigorating", "made of beans"],
+      name: "lots of sleep",
+      image: "https://imgs.xkcd.com/comics/sleep.png",  
+      attributes: ["zzzzz"],
     },
   ])
 
